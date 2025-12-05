@@ -35,29 +35,11 @@ Here’s a quick summary of what I’ve been working on and learning:
 
  - Frontend Development
 
- - React, Next.js (TypeScript)
-
- - UI/UX design foundations
-
  - Figma design structure
 
  - Building responsive websites and SPAs
 
- - DevOps & Deployment
-
- - Docker
-
- - Deployment with Heroku, AWS, CI/CD pipelines
-
- - API documentation with Swagger/OpenAPI & drf-spectacular
-
- - Current Learning Areas
-
  - Artificial Intelligence fundamentals
-
- - Media exchange systems: CMS, DSP, SSP, Ad Exchange & bidding flow
-
- - JavaFX simulations for physics problems
 
 🛠️ Some Projects I’ve Worked On
 🧮 Online Examination Platform
@@ -86,20 +68,6 @@ Here’s a quick summary of what I’ve been working on and learning:
 
  - Supported with UML diagrams and GitHub structure
 
-🌌 Cosmic Discoveries SPA
-
- - Astronomy website with maps, videos, books
-
- - Built with modern responsive UI
-
- - Uses geolocation API
-
-📱 Examination Tracking System (Mobile + NFC)
-
- - Tracks attendance and exam verification
-
- - School project with NFC integration
-
 📅 Calendar Web Application
 
  - JavaScript version → React version
@@ -119,3 +87,8 @@ Here’s a quick summary of what I’ve been working on and learning:
 📫 Let’s Connect
 
 GitHub: this page
+
+![Phemmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=femmyblaq&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=femmyblaq&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=femmyblaq&theme=radical)
+
