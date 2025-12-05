@@ -22,69 +22,44 @@ A system where:
 🧠 About Me
 
 Here’s a quick summary of what I’ve been working on and learning:
+## 🧰 Tech Stack & Tools
 
- - Backend Development
+### **Languages**
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
- - Django & Django REST Framework
+### **Frontend**
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
- - Spring & Spring Boot
+### **Backend**
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-%23a30000.svg?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 
- - API development, authentication, and secure backend design
+### **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
- - Working with sessions, cookies, JWTs, and business logic
+### **DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
- - Frontend Development
 
- - Figma design structure
-
- - Building responsive websites and SPAs
-
- - Artificial Intelligence fundamentals
-
-🛠️ Some Projects I’ve Worked On
-🧮 Online Examination Platform
-
- - User roles: admin, lecturer, student
-
- - Features: login, take exams, timers, auto-submit, analytics, leaderboard
-
- - Admin dashboard with filtering, charts, CSV export, and result management
-
- - Persistent exam timers (frontend + backend)
-
-💳 E-Wallet Web App
-
- - Transaction management
-
- - Backend logic using Django
-
- - Secure and user-friendly flow
-
-🛍️ Online Store Management System (Java OOP)
-
- - Console-based
-
- - Demonstrates encapsulation, inheritance, abstraction, and polymorphism
-
- - Supported with UML diagrams and GitHub structure
-
-📅 Calendar Web Application
-
- - JavaScript version → React version
-
- - Clean UI, automatic date highlights, future month navigation
-
-✨ What I Bring
-
- - Clean and maintainable code
-
- - Strong grasp of explaining complex topics simply (2+ years instructing experience)
-
- - Passion for software communities — I run a dev group for sharing tech trends and jobs
-
- - Consistency, self-driven learning, and project-oriented mindset
 
 📫 Let’s Connect
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=femmyblaq&theme=radical&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 GitHub: this page
 
