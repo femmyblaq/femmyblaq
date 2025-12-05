@@ -11,110 +11,110 @@ Plenty Events — Vendor & Worker Hiring Platform
 
 A system where:
 
-Users can scout and hire vendors based on ratings.
+ - Users can scout and hire vendors based on ratings.
 
-Vendors can hire waiters/workers based on expertise, experience, and attitude.
+ - Vendors can hire waiters/workers based on expertise, experience, and attitude.
 
-Automatic email notifications, rating features, and role-based interactions.
+ - Automatic email notifications, rating features, and role-based interactions.
 
-Built with a modern architectural approach focusing on scalability and clean design.
+ - Built with a modern architectural approach focusing on scalability and clean design.
 
 🧠 About Me
 
 Here’s a quick summary of what I’ve been working on and learning:
 
-Backend Development
+ - Backend Development
 
-Django & Django REST Framework
+ - Django & Django REST Framework
 
-Spring & Spring Boot
+ - Spring & Spring Boot
 
-API development, authentication, and secure backend design
+ - API development, authentication, and secure backend design
 
-Working with sessions, cookies, JWTs, and business logic
+ - Working with sessions, cookies, JWTs, and business logic
 
-Frontend Development
+ - Frontend Development
 
-React, Next.js (TypeScript)
+ - React, Next.js (TypeScript)
 
-UI/UX design foundations
+ - UI/UX design foundations
 
-Figma design structure
+ - Figma design structure
 
-Building responsive websites and SPAs
+ - Building responsive websites and SPAs
 
-DevOps & Deployment
+ - DevOps & Deployment
 
-Docker
+ - Docker
 
-Deployment with Heroku, AWS, CI/CD pipelines
+ - Deployment with Heroku, AWS, CI/CD pipelines
 
-API documentation with Swagger/OpenAPI & drf-spectacular
+ - API documentation with Swagger/OpenAPI & drf-spectacular
 
-Current Learning Areas
+ - Current Learning Areas
 
-Artificial Intelligence fundamentals
+ - Artificial Intelligence fundamentals
 
-Media exchange systems: CMS, DSP, SSP, Ad Exchange & bidding flow
+ - Media exchange systems: CMS, DSP, SSP, Ad Exchange & bidding flow
 
-JavaFX simulations for physics problems
+ - JavaFX simulations for physics problems
 
 🛠️ Some Projects I’ve Worked On
 🧮 Online Examination Platform
 
-User roles: admin, lecturer, student
+ - User roles: admin, lecturer, student
 
-Features: login, take exams, timers, auto-submit, analytics, leaderboard
+ - Features: login, take exams, timers, auto-submit, analytics, leaderboard
 
-Admin dashboard with filtering, charts, CSV export, and result management
+ - Admin dashboard with filtering, charts, CSV export, and result management
 
-Persistent exam timers (frontend + backend)
+ - Persistent exam timers (frontend + backend)
 
 💳 E-Wallet Web App
 
-Transaction management
+ - Transaction management
 
-Backend logic using Django
+ - Backend logic using Django
 
-Secure and user-friendly flow
+ - Secure and user-friendly flow
 
 🛍️ Online Store Management System (Java OOP)
 
-Console-based
+ - Console-based
 
-Demonstrates encapsulation, inheritance, abstraction, and polymorphism
+ - Demonstrates encapsulation, inheritance, abstraction, and polymorphism
 
-Supported with UML diagrams and GitHub structure
+ - Supported with UML diagrams and GitHub structure
 
 🌌 Cosmic Discoveries SPA
 
-Astronomy website with maps, videos, books
+ - Astronomy website with maps, videos, books
 
-Built with modern responsive UI
+ - Built with modern responsive UI
 
-Uses geolocation API
+ - Uses geolocation API
 
 📱 Examination Tracking System (Mobile + NFC)
 
-Tracks attendance and exam verification
+ - Tracks attendance and exam verification
 
-School project with NFC integration
+ - School project with NFC integration
 
 📅 Calendar Web Application
 
-JavaScript version → React version
+ - JavaScript version → React version
 
-Clean UI, automatic date highlights, future month navigation
+ - Clean UI, automatic date highlights, future month navigation
 
 ✨ What I Bring
 
-Clean and maintainable code
+ - Clean and maintainable code
 
-Strong grasp of explaining complex topics simply (2+ years instructing experience)
+ - Strong grasp of explaining complex topics simply (2+ years instructing experience)
 
-Passion for software communities — I run a dev group for sharing tech trends and jobs
+ - Passion for software communities — I run a dev group for sharing tech trends and jobs
 
-Consistency, self-driven learning, and project-oriented mindset
+ - Consistency, self-driven learning, and project-oriented mindset
 
 📫 Let’s Connect
 
