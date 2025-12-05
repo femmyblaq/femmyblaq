@@ -55,6 +55,13 @@ Here’s a quick summary of what I’ve been working on and learning:
 
 
 📫 Let’s Connect
+## 📫 Contact Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phemmyhy@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/habeeb-yusuph-21782025b)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Hy_devinton)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://your-portfolio-link.com](https://hydevinton.netlify.app/))
+
 
 ## 🏆 GitHub Trophies
 
